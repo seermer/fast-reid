@@ -1,5 +1,6 @@
 
 logs
+datasets/reid*/
 
 # compilation and distribution
 __pycache__
